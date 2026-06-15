@@ -1,0 +1,10 @@
+pip install streamlit
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install joblib
+pip install matplotlib
+pip install seaborn
+pip install python-docx
+pip install openpyxl
+pip install pyinstaller
